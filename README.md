@@ -86,7 +86,7 @@ values
 /* insert into users 
 (name,email)
 values
-("Jacob","JacobFrenchwow@gmail.com"),
+("Jacob","Jacob.fakeemail@gmail.com"),
 ("Levi","FakeEmail@Yahoo.com"),
 ("Jerry","JerryatAnotherfakeemail@mac.com"); */
 
